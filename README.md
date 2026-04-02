@@ -1,6 +1,4 @@
-Hi My Name is Moeed- 
-I’m interested in Front End web development and Andoid app development.
-I am a Software Engineer.
+Software Engineer with hand on experience with latest frontend tools and libraries and backend technologies node js and .net core.
 
 
 
